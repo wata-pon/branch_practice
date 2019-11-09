@@ -1,4 +1,7 @@
-print('Your name?:::::')
-print('Your password?:')
+
+print('name?:')
+print('password?:')
+
+
 
 print('Login!')
